@@ -1,0 +1,17 @@
+.box{
+	background-color: aquamarine;
+	border-radius: 10px;
+	margin: 8px;
+	padding: 10px;
+}
+
+.flex-container{
+	display: flex;
+	flex: 0 1 auto;	
+}
+
+.box3{
+	background-color: bisque;
+	align-self: center;
+	flex: 12 1 auto;
+}
